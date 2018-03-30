@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrophoneRecorder", "MicrophoneRecorder\MicrophoneRecorder.csproj", "{13F89BDD-86AD-4ED4-B5F0-0F77587A3435}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RecorderSetup", "RecorderSetup\RecorderSetup.vdproj", "{30BC5B44-0DD3-4303-922D-27662A07E022}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{13F89BDD-86AD-4ED4-B5F0-0F77587A3435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13F89BDD-86AD-4ED4-B5F0-0F77587A3435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13F89BDD-86AD-4ED4-B5F0-0F77587A3435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BC5B44-0DD3-4303-922D-27662A07E022}.Debug|Any CPU.ActiveCfg = Debug
+		{30BC5B44-0DD3-4303-922D-27662A07E022}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
